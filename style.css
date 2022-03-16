@@ -1,0 +1,28 @@
+.box{ 
+    box-shadow: 1px 2px 10px black;
+    width: 400px;
+    height: 350px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 5px;
+}
+
+.foto{
+    width: 200px;
+    height: 200px;
+    background-image: url(cat.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: auto;
+    border-radius: 360px;
+}
+
+p{
+    width: 300px;
+    margin: auto;
+    padding: 30px;
+}
+
+
+
